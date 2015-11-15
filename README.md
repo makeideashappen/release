@@ -18,6 +18,13 @@ Release image and patch
       7.Please modify "max z jerk" in profile from 0.4 to 4, if you have youselves profile or 3d printer isn't Delta.
       8.Fix other bugs.
 
+	Patch 20151025-0.93 0.930
+		https://s3.amazonaws.com/fastbot3d-firmware/2015/FastBot-patch-20151025-0.93.rar
+	Patch 20151113-0.94 0.941
+		https://s3.amazonaws.com/fastbot3d-firmware/2015/FastBot-patch-20151113-0.941.rar
+
+
+Please visit http://www.fastbot3d.com/download to get latest patch.
 
 
 Note: when the blue led light in middle of BBP board flashes, Octoprint is ready for use.
